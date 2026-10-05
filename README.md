@@ -2,7 +2,9 @@
 rootwork assignment
 Name: 0xnuri
 Current programming experience: A little knowledge in python and nodejs
+
 Currently interested in: learning how to code better and more effectively
+
 What I want to be able to do by the end of Rootwork: Build and ship real projects from first principles, and explain every line of code I write.
 
 What my code does
