@@ -8,3 +8,6 @@ console.log(`${num} is ${isEven(num)}`);
 
 num = 10;
 console.log(`${num} is ${isEven(num)}`);
+
+num = 200;
+console.log(`${num} is ${isEven(num)}`);
