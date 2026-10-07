@@ -1,5 +1,5 @@
 function isOdd(n) {
-    return n % 3 === 0;
+    return n % 2 === 0;
 }
 let num = 9;
 console.log (`${num} is ${isOdd(num)}`);
